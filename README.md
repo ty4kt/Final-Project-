@@ -47,3 +47,4 @@ The model successfully captured **72% of fraud cases** while keeping false posit
 📁 README.md            # Project overview and setup
 📁 report.pdf           # Final technical report
 📁 poster.jpg           # A3 summary poster (public showcase)
+📁 screenshot           # Screenshot of dataset, as dataset link too large to attach
